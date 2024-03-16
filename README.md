@@ -1,14 +1,14 @@
 # Random Password Generator
 ### Getting Started
+#### To install all dependencies:
 ```
-To install all dependencies:
-# npm install 
-
-Now, run the development server
-# npm run dev
-
-Open Local Host http://localhost:5173/ with your browser to see the results.
+npm install 
 ```
+#### Now, run the development server
+```
+npm run dev
+```
+#### Open Local Host http://localhost:5173/ with your browser to see the results.
 
 This [project](https://pass-gen-codewithalpha.vercel.app) is a random password generator built with [React](https://react.dev/) and styled with [TailwindCSS](https://tailwindcss.com/). It offers a simple yet effective tool for generating strong, secure passwords for various purposes. With this application, users can customize the length and complexity of their passwords, ensuring they meet specific security requirements.
 
